@@ -1,0 +1,10 @@
+---
+title: "Programming Projects"
+format: html
+---
+
+- [Investment Simulator](https://dejesusalcala.shinyapps.io/InvestmentSimulator/)
+
+- [Inaugural Speech Analysis](https://dejesusalcala.shinyapps.io/InauguralSpeechAnalysis/)
+
+- [Savings Rate Calculator](https://dejesusalcala.shinyapps.io/SavingsRateCalculator/)

@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Angel Alcala Ruiz"
+  navbar:
+    background: "#83C6D2"
+    search: true
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "Mathematics"
+        file: math-notes.qmd
+      - text: "Programming"
+        file: programming-projects.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "Artwork"
+        file: artwork.qmd
+
+  sidebar:     
+    - title: "Mathematics"
+      contents:
+        - mathematics.qmd
+    - title: "Programming"
+      style: "docked"
+      contents:
+        - programming-projects.qmd
+        - project-euler-exercises.qmd
+
+  page-footer: 
+    left: "Copyright 2023, Angel Alcala Ruiz" 
+    center: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dejesusalcala/
+      - icon: github
+        href: https://github.com/dejesusalcala
+      - icon: mail 
+        href: https://twitter.com/
+format:
+  html:
+    theme: materia
+    css: styles.css
+    toc: true
+
+
+

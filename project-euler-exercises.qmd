@@ -1,0 +1,26 @@
+---
+title: "Project Euler"
+format: html
+---
+
+The following exercises are from [Project Euler](https://projecteuler.net/about)
+
+- [Problem 1: Multiples of 3 or 5](https://dejesusalcala.github.io/project_euler_1/)
+
+- Problem 2: Even Fibonacci Numbers 
+
+- Problem 4: Largest Palindrome Product 
+
+- Problem 5: Smallest Multiple 
+
+- Problem 6: Sum Square Difference 
+
+- Problem 7: 10,001st Prime 
+
+- Problem 8: Largest Product in a Series 
+
+- Problem 9: Special Pythagorean Triplet 
+
+- Problem 10: Summation of Primes 
+
+- Problem 11: Largest Product in a Grid 
