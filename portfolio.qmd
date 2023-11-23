@@ -27,6 +27,6 @@ format: html
 
     - **Skills:** *R, Shiny, ggplot2, dplyr, Data Visualization*
 
-5. SQL Discussion
+5. [SQL Discussion](https://dejesusalcala.github.io/sql-discussion/)
 
     - **Summary:** In this SQL discussion we go through examples of creating tables, joining multiple tables, and aggregation over multiple rows. 
