@@ -3,8 +3,8 @@ title: "Programming Projects"
 format: html
 ---
 
-- [Investment Simulator](https://dejesusalcala.shinyapps.io/InvestmentSimulator/)
+- [Investment Simulator](https://dejesusalcala.shinyapps.io/InvestmentSimulator/){target="_blank"}
 
-- [Inaugural Speech Analysis](https://dejesusalcala.shinyapps.io/InauguralSpeechAnalysis/)
+- [Inaugural Speech Analysis](https://dejesusalcala.shinyapps.io/InauguralSpeechAnalysis/){target="_blank"}
 
-- [Savings Rate Calculator](https://dejesusalcala.shinyapps.io/SavingsRateCalculator/)
+- [Savings Rate Calculator](https://dejesusalcala.shinyapps.io/SavingsRateCalculator/){target="_blank"}
