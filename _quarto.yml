@@ -33,6 +33,7 @@ website:
         - project-euler-exercises.qmd
 
   page-footer: 
+    background: "#83C6D2"
     left: "Copyright 2023, Angel Alcala Ruiz" 
     center: 
       - icon: linkedin
@@ -45,7 +46,7 @@ website:
       [Made with Quarto](https://quarto.org/)
 format:
   html:
-    theme: lumen
+    theme: spacelab
     css: styles.css
     toc: true
 

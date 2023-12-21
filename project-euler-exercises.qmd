@@ -3,7 +3,7 @@ title: "Project Euler"
 format: html
 ---
 
-The following exercises are from [Project Euler](https://projecteuler.net/about){target="_blank"}
+The following exercises are from [Project Euler](https://projecteuler.net/archives){target="_blank"}
 
 - [Problem 1: Multiples of 3 or 5](https://dejesusalcala.github.io/project_euler_1/){target="_blank"}
 
@@ -16,3 +16,5 @@ The following exercises are from [Project Euler](https://projecteuler.net/about)
 - [Problem 5: Smallest Multiple](https://dejesusalcala.github.io/project_euler_5/){target="_blank"}
 
 - [Problem 6: Sum Square Difference](https://dejesusalcala.github.io/project_euler_6/){target="_blank"}
+
+- [Problem 7: 10001st Prime](https://dejesusalcala.github.io/project_euler_7/){target="_blank"}
