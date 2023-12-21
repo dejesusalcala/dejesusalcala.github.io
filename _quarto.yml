@@ -36,8 +36,8 @@ website:
         href: https://www.linkedin.com/in/dejesusalcala/
       - icon: github
         href: https://github.com/dejesusalcala
-      - icon: mail 
-        href: https://twitter.com/
+      - icon: envelope-at-fill
+        href: mailto:dejesusalcala@gmail.com
 format:
   html:
     theme: materia
