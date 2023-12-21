@@ -4,9 +4,11 @@ project:
 
 website:
   title: "Angel Alcala Ruiz"
+  search:
+    location: navbar
+    type: textbox
   navbar:
     background: "#83C6D2"
-    search: true
     right:
       - text: "Home"
         file: index.qmd
@@ -19,8 +21,9 @@ website:
       - text: "Artwork"
         file: artwork.qmd
 
-  sidebar:     
+  sidebar:  
     - title: "Mathematics"
+      style: "docked"
       contents:
         - mathematics.qmd
     - title: "Programming"
@@ -38,9 +41,11 @@ website:
         href: https://github.com/dejesusalcala
       - icon: envelope-at-fill
         href: mailto:dejesusalcala@gmail.com
+    right: |  
+      [Made with Quarto](https://quarto.org/)
 format:
   html:
-    theme: materia
+    theme: lumen
     css: styles.css
     toc: true
 
