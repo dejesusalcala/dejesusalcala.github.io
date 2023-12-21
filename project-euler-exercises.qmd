@@ -15,4 +15,4 @@ The following exercises are from [Project Euler](https://projecteuler.net/about)
 
 - [Problem 5: Smallest Multiple](https://dejesusalcala.github.io/project_euler_5/){target="_blank"}
 
-- Problem 6
+- [Problem 6: Sum Square Difference](https://dejesusalcala.github.io/project_euler_6/){target="_blank"}
