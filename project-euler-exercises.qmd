@@ -18,3 +18,7 @@ The following exercises are from [Project Euler](https://projecteuler.net/archiv
 - [Problem 6: Sum Square Difference](https://dejesusalcala.github.io/project_euler_6/){target="_blank"}
 
 - [Problem 7: 10001st Prime](https://dejesusalcala.github.io/project_euler_7/){target="_blank"}
+
+- [Problem 8: Largest Product in a Series](https://dejesusalcala.github.io/project_euler_8/){target="_blank"}
+
+- [Problem 9: Pythagorean Triplet](https://dejesusalcala.github.io/project_euler_9/){target="_blank"}
