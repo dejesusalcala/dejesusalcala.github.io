@@ -37,13 +37,13 @@ website:
     left: "Copyright 2023, Angel Alcala Ruiz" 
     center: 
       - icon: linkedin
-        href: https://www.linkedin.com/in/dejesusalcala/
+        href: https://www.linkedin.com/in/dejesusalcala/ 
       - icon: github
         href: https://github.com/dejesusalcala
       - icon: envelope-at-fill
         href: mailto:dejesusalcala@gmail.com
     right: |  
-      [Made with Quarto](https://quarto.org/)
+      [Made with Quarto](https://quarto.org/){target="_blank"}
 format:
   html:
     theme: spacelab
