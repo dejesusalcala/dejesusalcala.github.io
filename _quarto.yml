@@ -34,7 +34,7 @@ website:
 
   page-footer: 
     background: "#83C6D2"
-    left: "Copyright 2023, Angel Alcala Ruiz" 
+    left: "Copyright 2023-2024, Angel Alcala Ruiz" 
     center: 
       - icon: linkedin
         href: https://www.linkedin.com/in/dejesusalcala/ 
