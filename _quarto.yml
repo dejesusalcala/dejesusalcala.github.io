@@ -36,6 +36,8 @@ website:
     background: "#83C6D2"
     left: "Copyright 2023-2024, Angel Alcala Ruiz" 
     center: 
+      - icon: mortarboard-fill
+        href: https://cal.berkeley.edu/dejesusalcala
       - icon: linkedin
         href: https://www.linkedin.com/in/dejesusalcala/ 
       - icon: github

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome…",
+    "title": "Angel Alcala Ruiz",
     "section": "",
-    "text": "2023\n\n\n\n\n\nHello! My name is Angel and I’d like to welcome you to my website. I want to use this space as a way to continue my journey of learning, and to be able to share some of my knowledge.\nI graduated from the University of California, Berkeley with a bachelor’s in applied mathematics. I enjoy using mathematics to help find solutions to real-world problems. I’m specifically interested in data analysis to create visualizations that can help us better understand an issue which can lead us to have thoughtful discussions about possible solutions.\nI have two amazing little sisters (technically my nieces!) that I absolutely love spending so much time with. On my free time I enjoy weight lifting, mountain biking, calligraphy, and painting.\nIf you have any questions about my work or if you would like to contact me about anything else, then please feel free to contact me.\nBest\n\n\n\nAngel Alcala Ruiz\nFirst Generation | B.A. in Applied Mathematics | Class of 2022\n\ncal profile: https://cal.berkeley.edu/dejesusalcala\nlinkedin: https://www.linkedin.com/in/dejesusalcala/\ngithub: https://github.com/dejesusalcala\nemail: dejesusalcala@gmail.com"
+    "text": "About me\nHello! My name is Angel and I’d like to welcome you to my website. I want to use this space as a way to continue my journey of learning, and to be able to share some of my knowledge.\nI graduated from the University of California, Berkeley with a bachelor’s in applied mathematics. I enjoy using mathematics to help find solutions to real-world problems. I’m specifically interested in data analysis to create visualizations that can help us better understand an issue which can lead us to have thoughtful discussions about possible solutions.\nI have two amazing little sisters (technically my nieces!) that I absolutely love spending so much time with. On my free time I enjoy weight lifting, mountain biking, calligraphy, and painting.\nIf you have any questions about my work or if you would like to contact me about anything else, then please feel free to contact me.\nBest\n\n\nEducation\nFirst Generation | Class of 2022\nUniversity of California, Berkeley - Bachelor of Arts, Applied Mathematics"
   },
   {
     "objectID": "math-notes.html",
@@ -40,5 +40,12 @@
     "title": "Portfolio",
     "section": "",
     "text": "Hurricane Analysis\n\nSummary: An analysis on tropical cyclones in the North Atlantic region. The project includes both the data preparation stage and the analysis stage of the data analysis cycle. In the preparation stage the data is cleaned by selecting the columns that will be used, specifying missing values, specifying data-types, and removing outliers. The analysis performed is in the form of statistics and data visualizations using R’s ggplot2 and dplyr packages.\nSkills: R, ggplot2, dplyr, Data Analysis, Data Visualization\n\nInaugural Speech Analysis\n\nSummary: Built an interactive application through R’s Shiny package to perform a text analysis. The application allows the user to explore the most frequently used words and bigrams of the U.S. president’s inaugural speeches with the ability to remove stopwords.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nInvestment Simulator\n\nSummary: Built an interactive investment application through R’s Shiny package. The application uses simulations to visualize how an investment account will grow given an initial amount and yearly contributions.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nSavings Rate Calculator\n\nSummary: A savings calculator application to compute the number of years of saving a percentage of one’s income it would take to reach a target amount given an annual income and an annual rate.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nSQL Discussion\n\nSummary: In this SQL discussion we go through examples of creating tables, joining multiple tables, and aggregation over multiple rows."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Angel Alcala Ruiz",
+    "section": "Education",
+    "text": "Education\nFirst Generation | B.A. in Applied Mathematics | Class of 2022"
   }
 ]

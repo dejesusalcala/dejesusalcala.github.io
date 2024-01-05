@@ -1,27 +1,26 @@
 ---
-title: "Welcome..."
+title: "Angel Alcala Ruiz"
+about:
+    template: trestles
+    image: ./images/grad-photo.jpg
+    image-shape: rounded
+    image-width: 20em
+    links: 
+      - icon: mortarboard-fill
+        text: cal profile
+        href: https://cal.berkeley.edu/dejesusalcala
+      - icon: linkedin
+        text: linkedin
+        href: https://www.linkedin.com/in/dejesusalcala/
+      - icon: github
+        text: github
+        href: https://github.com/dejesusalcala
+      - icon: envelope-at-fill
+        text: email
+        href: mailto:dejesusalcala@gmail.com
 ---
 
-
-:::: {.columns}
-
-
-::: {.column width="30%"}
-
-<center>![](./images/grad-photo.jpg){width="100%"} 
-*2023* </center>
-
-:::
-
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-
-::: {.column width="65%"}
-
-::: {style="font-size: 90%;"}
-
+#### About me
 
 Hello! My name is Angel and I'd like to welcome you to my website. I want to use this space as a way to continue my journey of learning, and to be able to share some of my knowledge.
 
@@ -33,31 +32,9 @@ If you have any questions about my work or if you would like to contact me about
 
 Best
 
-:::
 
-:::
+#### Education
 
----
+*First Generation | Class of 2022*
 
-::: {.column width="100%"}
-
-::: {style="font-size: 80%;"}
-
-**Angel Alcala Ruiz**
-
-*First Generation | B.A. in Applied Mathematics | Class of 2022*
-
-- **cal profile**: [https://cal.berkeley.edu/dejesusalcala](https://cal.berkeley.edu/dejesusalcala){target="_blank"}
-
-- **linkedin**: [https://www.linkedin.com/in/dejesusalcala/](https://www.linkedin.com/in/dejesusalcala/){target="_blank"}
-
-- **github**: [https://github.com/dejesusalcala](https://github.com/dejesusalcala){target="_blank"}
-
-- **email**: dejesusalcala@gmail.com
-:::
-
-:::
-
-::::
-
-
+University of California, Berkeley - *Bachelor of Arts, Applied Mathematics*
