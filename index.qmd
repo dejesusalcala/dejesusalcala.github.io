@@ -1,5 +1,6 @@
 ---
 title: "Angel Alcala Ruiz"
+description: First Generation | Class of 2022 
 about:
     template: trestles
     image: ./images/grad-photo.jpg
@@ -20,6 +21,8 @@ about:
         href: mailto:dejesusalcala@gmail.com
 ---
 
+::: {style="font-size: 90%;"}
+
 #### About me
 
 Hello! My name is Angel and I'd like to welcome you to my website. I want to use this space as a way to continue my journey of learning, and to be able to share some of my knowledge.
@@ -35,6 +38,6 @@ Best
 
 #### Education
 
-*First Generation | Class of 2022*
-
 University of California, Berkeley - *Bachelor of Arts, Applied Mathematics*
+
+:::
