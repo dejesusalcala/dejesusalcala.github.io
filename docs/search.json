@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Angel Alcala Ruiz",
     "section": "",
-    "text": "About me\nHello! My name is Angel and I’d like to welcome you to my website. I want to use this space as a way to continue my journey of learning, and to be able to share some of my knowledge.\nI graduated from the University of California, Berkeley with a bachelor’s in applied mathematics. I enjoy using mathematics to help find solutions to real-world problems. I’m specifically interested in data analysis to create visualizations that can help us better understand an issue which can lead us to have thoughtful discussions about possible solutions.\nI have two amazing little sisters (technically my nieces!) that I absolutely love spending so much time with. On my free time I enjoy weight lifting, mountain biking, calligraphy, and painting.\nIf you have any questions about my work or if you would like to contact me about anything else, then please feel free to contact me.\nBest\n\n\nEducation\nUniversity of California, Berkeley - Bachelor of Arts, Applied Mathematics"
+    "text": "About me\nHello! My name is Angel and I’d like to welcome you to my website. I want to use this space as a way to continue my journey of learning, and to be able to share some of my knowledge.\nI graduated from the University of California, Berkeley with a bachelor’s in applied mathematics. I enjoy using mathematics to help find solutions to real-world problems. I’m specifically interested in data analysis to create visualizations that can help us better understand an issue which can lead us to have thoughtful discussions about possible solutions.\nI have two amazing little sisters (technically my nieces!) that I absolutely love spending so much time with. On my free time I enjoy weight lifting, mountain biking, calligraphy, and painting.\nIf you have any questions about my work or if you would like to contact me about anything else, then please feel free to contact me.\nBest\n\n\nEducation\nUniversity of California, Berkeley - Bachelor of Arts, Applied Mathematics\nDiablo Valley College - Associate of Arts, Economics"
   },
   {
     "objectID": "math-notes.html",
     "href": "math-notes.html",
     "title": "Math Notes",
     "section": "",
-    "text": "Nonlinear and Discrete Optimization\nAbstract Algebra\nComplex Analysis"
+    "text": "Nonlinear and Discrete Optimization\n\nThis course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton’s method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling, classification with support vector machines.\n\nAbstract Algebra\nComplex Analysis"
   },
   {
     "objectID": "artwork.html",
@@ -54,5 +54,110 @@
     "title": "Angel Alcala Ruiz",
     "section": "",
     "text": "Hello! My name is Angel and I’d like to welcome you to my website. I want to use this space as a way to continue my journey of learning, and to be able to share some of my knowledge.\nI graduated from the University of California, Berkeley with a bachelor’s in applied mathematics. I enjoy using mathematics to help find solutions to real-world problems. I’m specifically interested in data analysis to create visualizations that can help us better understand an issue which can lead us to have thoughtful discussions about possible solutions.\nI have two amazing little sisters (technically my nieces!) that I absolutely love spending so much time with. On my free time I enjoy weight lifting, mountain biking, calligraphy, and painting.\nIf you have any questions about my work or if you would like to contact me about anything else, then please feel free to contact me.\nBest"
+  },
+  {
+    "objectID": "math-notes.html#nonlinear-and-discrete-optimization",
+    "href": "math-notes.html#nonlinear-and-discrete-optimization",
+    "title": "Math Notes",
+    "section": "",
+    "text": "Nonlinear and Discrete Optimization\n\nThis course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton’s method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling, classification with support vector machines.\n\nAbstract Algebra\nComplex Analysis"
+  },
+  {
+    "objectID": "math-courses.html",
+    "href": "math-courses.html",
+    "title": "Math Courses",
+    "section": "",
+    "text": "Nonlinear and Discrete Optimization\n\nNonlinear and Discrete Optimization\n\n\nCourse Description\nThis course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton’s method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling, classification with support vector machines.\n\n\n\nAbstract Algebra\n\nAbstract Algebra\n\n\n\nComplex Analysis\n\nComplex Analysis"
+  },
+  {
+    "objectID": "math-courses.html#nonlinear-and-discrete-optimization",
+    "href": "math-courses.html#nonlinear-and-discrete-optimization",
+    "title": "Math Courses",
+    "section": "",
+    "text": "Nonlinear and Discrete Optimization\n\n\n\nThis course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton’s method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling, classification with support vector machines."
+  },
+  {
+    "objectID": "nonlinear-and-discrete-optimization.html",
+    "href": "nonlinear-and-discrete-optimization.html",
+    "title": "Nonlinear & Discrete Optimization",
+    "section": "",
+    "text": "IND ENG 160: Nonlinear and Discrete Optimization\n\n\n\nThis course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton’s method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling, classification with support vector machines.\nFor more information about IND ENG 160 visit Berkeley’s Academic Guide."
+  },
+  {
+    "objectID": "abstract-algebra.html",
+    "href": "abstract-algebra.html",
+    "title": "Abstract Algebra",
+    "section": "",
+    "text": "MATH 113: Abstract Algebra\n\n\n\nSets and relations. The integers, congruences, and the Fundamental Theorem of Arithmetic. Groups and their factor groups. Commutative rings, ideals, and quotient fields. The theory of polynomials: Euclidean algorithm and unique factorizations. The Fundamental Theorem of Algebra. Fields and field extensions.\nFor more information about MATH 113 visit Berkeley’s Academic Guide."
+  },
+  {
+    "objectID": "nonlinear-and-discrete-optimization.html#course-description",
+    "href": "nonlinear-and-discrete-optimization.html#course-description",
+    "title": "Nonlinear & Discrete Optimization",
+    "section": "",
+    "text": "Official Course Description: This course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton’s method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling, classification with support vector machines. - Per course description\nIEOR 160: Nonlinear & Discrete Optimization"
+  },
+  {
+    "objectID": "nonlinear-and-discrete-optimization.html#class-notes",
+    "href": "nonlinear-and-discrete-optimization.html#class-notes",
+    "title": "Nonlinear & Discrete Optimization",
+    "section": "Class Notes",
+    "text": "Class Notes\n\nIND ENG 160 Notes"
+  },
+  {
+    "objectID": "nonlinear-and-discrete-optimization.html#homework",
+    "href": "nonlinear-and-discrete-optimization.html#homework",
+    "title": "Nonlinear & Discrete Optimization",
+    "section": "Homework",
+    "text": "Homework"
+  },
+  {
+    "objectID": "nonlinear-and-discrete-optimization.html#course",
+    "href": "nonlinear-and-discrete-optimization.html#course",
+    "title": "Nonlinear & Discrete Optimization",
+    "section": "",
+    "text": "IND ENG 160: Nonlinear and Discrete Optimization\n\n\n\nThis course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton’s method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling, classification with support vector machines.\nFor more information about IND ENG 160 visit Berkeley’s Academic Guide."
+  },
+  {
+    "objectID": "abstract-algebra.html#course",
+    "href": "abstract-algebra.html#course",
+    "title": "Abstract Algebra",
+    "section": "",
+    "text": "MATH 113: Abstract Algebra\n\n\n\nSets and relations. The integers, congruences, and the Fundamental Theorem of Arithmetic. Groups and their factor groups. Commutative rings, ideals, and quotient fields. The theory of polynomials: Euclidean algorithm and unique factorizations. The Fundamental Theorem of Algebra. Fields and field extensions.\nFor more information about MATH 113 visit Berkeley’s Academic Guide."
+  },
+  {
+    "objectID": "abstract-algebra.html#class-notes",
+    "href": "abstract-algebra.html#class-notes",
+    "title": "Abstract Algebra",
+    "section": "Class Notes",
+    "text": "Class Notes\n\nMATH 113 Notes"
+  },
+  {
+    "objectID": "abstract-algebra.html#homework",
+    "href": "abstract-algebra.html#homework",
+    "title": "Abstract Algebra",
+    "section": "Homework",
+    "text": "Homework"
+  },
+  {
+    "objectID": "complex-analysis.html",
+    "href": "complex-analysis.html",
+    "title": "Complex Analysis",
+    "section": "",
+    "text": "MATH 185: Complex Analysis\n\n\n\nAnalytic functions of a complex variable. Cauchy’s integral theorem, power series, Laurent series, singularities of analytic functions, the residue theorem with application to definite integrals. Some additional topics such as conformal mapping.\nFor more information about MATH 185 visit Berkeley’s Academic Guide."
+  },
+  {
+    "objectID": "complex-analysis.html#course",
+    "href": "complex-analysis.html#course",
+    "title": "Complex Analysis",
+    "section": "",
+    "text": "MATH 185: Complex Analysis\n\n\n\nAnalytic functions of a complex variable. Cauchy’s integral theorem, power series, Laurent series, singularities of analytic functions, the residue theorem with application to definite integrals. Some additional topics such as conformal mapping.\nFor more information about MATH 185 visit Berkeley’s Academic Guide."
+  },
+  {
+    "objectID": "complex-analysis.html#class-notes",
+    "href": "complex-analysis.html#class-notes",
+    "title": "Complex Analysis",
+    "section": "Class Notes",
+    "text": "Class Notes\n\nMATH 185 Notes"
   }
 ]

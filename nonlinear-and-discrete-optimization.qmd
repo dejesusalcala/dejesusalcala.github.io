@@ -1,0 +1,27 @@
+---
+title: "Nonlinear & Discrete Optimization"
+format: html
+---
+
+## Course
+
+#### Title
+
+**IND ENG 160**: Nonlinear and Discrete Optimization 
+
+#### Official Course Desctiption
+
+This course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton's method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling, classification with support vector machines.
+
+For more information about **IND ENG 160** visit [Berkeley's Academic Guide](https://guide.berkeley.edu/courses/ind_eng/){target="_blank"}.
+
+## Class Notes
+
+- [IND ENG 160 Notes](https://drive.google.com/file/d/1zaunvyhQlbXzFnlyi0w-aB4yH-A7xv8d/view){target="_blank"}
+
+
+## Homework
+
+
+
+

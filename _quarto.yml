@@ -13,7 +13,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "Mathematics"
-        file: math-notes.qmd
+        file: nonlinear-and-discrete-optimization.qmd
       - text: "Programming"
         file: programming-projects.qmd
       - text: "Portfolio"
@@ -25,7 +25,9 @@ website:
     - title: "Mathematics"
       style: "docked"
       contents:
-        - mathematics.qmd
+        - nonlinear-and-discrete-optimization.qmd
+        - abstract-algebra.qmd
+        - complex-analysis.qmd
     - title: "Programming"
       style: "docked"
       contents:
@@ -38,6 +40,7 @@ website:
     center: 
       - icon: mortarboard-fill
         href: https://cal.berkeley.edu/dejesusalcala
+        target: _blank
       - icon: linkedin
         href: https://www.linkedin.com/in/dejesusalcala/ 
       - icon: github

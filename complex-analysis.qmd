@@ -1,0 +1,20 @@
+---
+title: "Complex Analysis"
+format: html
+---
+
+## Course
+
+#### Title
+
+**MATH 185**: Complex Analysis
+
+#### Official Course Description
+
+Analytic functions of a complex variable. Cauchy's integral theorem, power series, Laurent series, singularities of analytic functions, the residue theorem with application to definite integrals. Some additional topics such as conformal mapping.
+
+For more information about **MATH 185** visit [Berkeley's Academic Guide](https://guide.berkeley.edu/courses/math/){target="_blank"}.
+
+## Class Notes
+
+- [MATH 185 Notes](https://drive.google.com/file/d/17UanqhN-c3PH83Z2GnUJSqTrcHmhmA7o/view){target="_blank"}

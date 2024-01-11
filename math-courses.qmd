@@ -1,0 +1,19 @@
+---
+title: "Math Courses"
+format: html
+---
+
+# Nonlinear and Discrete Optimization
+
+- [Nonlinear and Discrete Optimization](https://drive.google.com/file/d/1zaunvyhQlbXzFnlyi0w-aB4yH-A7xv8d/view){target="_blank"}
+
+### Course Description
+This course introduces unconstrained and constrained optimization with continuous and discrete domains. Convex sets and convex functions; local optimality; KKT conditions; Lagrangian duality; steepest descent and Newton's method. Modeling with integer variables; branch-and-bound method; cutting planes. Models on production/inventory planning, logistics, portfolio optimization, factor modeling, classification with support vector machines.
+
+# Abstract Algebra
+
+- [Abstract Algebra](https://drive.google.com/file/d/19lMeFmPXgPKUIMf1FlbHN2DOLJXPaW_O/view){target="_blank"}
+
+# Complex Analysis
+
+- [Complex Analysis](https://drive.google.com/file/d/17UanqhN-c3PH83Z2GnUJSqTrcHmhmA7o/view){target="_blank"}
