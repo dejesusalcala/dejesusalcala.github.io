@@ -5,6 +5,18 @@ format: html
 
 - [Investment Simulator](https://dejesusalcala.shinyapps.io/InvestmentSimulator/){target="_blank"}
 
+    - **Summary:** Built an interactive investment application through ***R***’s ***Shiny*** package. The application uses simulations to visualize how an investment account will grow given an initial amount and yearly contributions.
+
+    - **Skills:** *R, Shiny, ggplot2, dplyr, Data Visualization*
+
 - [Inaugural Speech Analysis](https://dejesusalcala.shinyapps.io/InauguralSpeechAnalysis/){target="_blank"}
 
+    - **Summary:** Built an interactive application through ***R***’s ***Shiny*** package to perform a ***text analysis***. The application allows the user to explore the most frequently used words and bigrams of the U.S. president’s inaugural speeches with the ability to remove stopwords.
+
+    - **Skills:** *R, Shiny, ggplot2, dplyr, Data Visualization*
+
 - [Savings Rate Calculator](https://dejesusalcala.shinyapps.io/SavingsRateCalculator/){target="_blank"}
+
+    - **Summary:** A savings calculator application to compute the number of years of saving a percentage of one's income it would take to reach a target amount given an annual income and an annual rate.
+
+    - **Skills:** *R, Shiny, ggplot2, dplyr, Data Visualization*

@@ -1,13 +1,17 @@
 ---
-title: "Portfolio"
+title: "Data Analysis Portfolio"
 format: html
 ---
+
+## Reports
 
 1. [Hurricane Analysis](https://dejesusalcala.github.io/hurricane_analysis/){target="_blank"}
 
     - **Summary:** An analysis on tropical cyclones in the North Atlantic region. The project includes both the data preparation stage and the analysis stage of the ***data analysis cycle***. In the preparation stage the data is cleaned by selecting the columns that will be used, specifying missing values, specifying data-types, and removing outliers. The analysis performed is in the form of ***statistics*** and ***data visualizations*** using ***R***’s ***ggplot2*** and ***dplyr*** packages.
 
     - **Skills:** *R, ggplot2, dplyr, Data Analysis, Data Visualization*
+
+## Dashboards
 
 2. [Inaugural Speech Analysis](https://dejesusalcala.shinyapps.io/InauguralSpeechAnalysis/){target="_blank"}
 
@@ -26,6 +30,8 @@ format: html
     - **Summary:** A savings calculator application to compute the number of years of saving a percentage of one's income it would take to reach a target amount given an annual income and an annual rate.
 
     - **Skills:** *R, Shiny, ggplot2, dplyr, Data Visualization*
+
+## SQL
 
 5. [SQL Discussion](https://dejesusalcala.github.io/sql-discussion/){target="_blank"}
 

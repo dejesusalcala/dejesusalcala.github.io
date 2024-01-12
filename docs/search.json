@@ -25,7 +25,7 @@
     "href": "programming-projects.html",
     "title": "Programming Projects",
     "section": "",
-    "text": "Investment Simulator\nInaugural Speech Analysis\nSavings Rate Calculator"
+    "text": "Investment Simulator\n\nSummary: Built an interactive investment application through R’s Shiny package. The application uses simulations to visualize how an investment account will grow given an initial amount and yearly contributions.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nInaugural Speech Analysis\n\nSummary: Built an interactive application through R’s Shiny package to perform a text analysis. The application allows the user to explore the most frequently used words and bigrams of the U.S. president’s inaugural speeches with the ability to remove stopwords.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nSavings Rate Calculator\n\nSummary: A savings calculator application to compute the number of years of saving a percentage of one’s income it would take to reach a target amount given an annual income and an annual rate.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization"
   },
   {
     "objectID": "project-euler-exercises.html",
@@ -37,9 +37,9 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "Portfolio",
+    "title": "Data Analysis Portfolio",
     "section": "",
-    "text": "Hurricane Analysis\n\nSummary: An analysis on tropical cyclones in the North Atlantic region. The project includes both the data preparation stage and the analysis stage of the data analysis cycle. In the preparation stage the data is cleaned by selecting the columns that will be used, specifying missing values, specifying data-types, and removing outliers. The analysis performed is in the form of statistics and data visualizations using R’s ggplot2 and dplyr packages.\nSkills: R, ggplot2, dplyr, Data Analysis, Data Visualization\n\nInaugural Speech Analysis\n\nSummary: Built an interactive application through R’s Shiny package to perform a text analysis. The application allows the user to explore the most frequently used words and bigrams of the U.S. president’s inaugural speeches with the ability to remove stopwords.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nInvestment Simulator\n\nSummary: Built an interactive investment application through R’s Shiny package. The application uses simulations to visualize how an investment account will grow given an initial amount and yearly contributions.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nSavings Rate Calculator\n\nSummary: A savings calculator application to compute the number of years of saving a percentage of one’s income it would take to reach a target amount given an annual income and an annual rate.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nSQL Discussion\n\nSummary: In this SQL discussion we go through examples of creating tables, joining multiple tables, and aggregation over multiple rows."
+    "text": "Hurricane Analysis\n\nSummary: An analysis on tropical cyclones in the North Atlantic region. The project includes both the data preparation stage and the analysis stage of the data analysis cycle. In the preparation stage the data is cleaned by selecting the columns that will be used, specifying missing values, specifying data-types, and removing outliers. The analysis performed is in the form of statistics and data visualizations using R’s ggplot2 and dplyr packages.\nSkills: R, ggplot2, dplyr, Data Analysis, Data Visualization"
   },
   {
     "objectID": "index.html#education",
@@ -159,5 +159,26 @@
     "title": "Complex Analysis",
     "section": "Class Notes",
     "text": "Class Notes\n\nMATH 185 Notes"
+  },
+  {
+    "objectID": "portfolio.html#reports",
+    "href": "portfolio.html#reports",
+    "title": "Data Analysis Portfolio",
+    "section": "",
+    "text": "Hurricane Analysis\n\nSummary: An analysis on tropical cyclones in the North Atlantic region. The project includes both the data preparation stage and the analysis stage of the data analysis cycle. In the preparation stage the data is cleaned by selecting the columns that will be used, specifying missing values, specifying data-types, and removing outliers. The analysis performed is in the form of statistics and data visualizations using R’s ggplot2 and dplyr packages.\nSkills: R, ggplot2, dplyr, Data Analysis, Data Visualization"
+  },
+  {
+    "objectID": "portfolio.html#dashboards",
+    "href": "portfolio.html#dashboards",
+    "title": "Data Analysis Portfolio",
+    "section": "Dashboards",
+    "text": "Dashboards\n\nInaugural Speech Analysis\n\nSummary: Built an interactive application through R’s Shiny package to perform a text analysis. The application allows the user to explore the most frequently used words and bigrams of the U.S. president’s inaugural speeches with the ability to remove stopwords.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nInvestment Simulator\n\nSummary: Built an interactive investment application through R’s Shiny package. The application uses simulations to visualize how an investment account will grow given an initial amount and yearly contributions.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nSavings Rate Calculator\n\nSummary: A savings calculator application to compute the number of years of saving a percentage of one’s income it would take to reach a target amount given an annual income and an annual rate.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization"
+  },
+  {
+    "objectID": "portfolio.html#sql",
+    "href": "portfolio.html#sql",
+    "title": "Data Analysis Portfolio",
+    "section": "SQL",
+    "text": "SQL\n\nSQL Discussion\n\nSummary: In this SQL discussion we go through examples of creating tables, joining multiple tables, and aggregation over multiple rows."
   }
 ]
