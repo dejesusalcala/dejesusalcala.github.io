@@ -5,7 +5,7 @@ format: html
 
 The following exercises are from [Project Euler](https://projecteuler.net/archives){target="_blank"}
 
-- [Problem 1: Multiples of 3 or 5](https://dejesusalcala.github.io/project_euler_1/){target="_blank"}
+- [Problem 1: Multiples of 3 or 5](https://dejesusalcala.github.io/project-euler-1/){target="_blank"}
 
 - [Problem 2: Even Fibonacci Numbers](https://dejesusalcala.github.io/project_euler_2/){target="_blank"}
 
