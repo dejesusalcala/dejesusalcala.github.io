@@ -20,3 +20,7 @@ format: html
     - **Summary:** A savings calculator application to compute the number of years of saving a percentage of one's income it would take to reach a target amount given an annual income and an annual rate.
 
     - **Skills:** *R, Shiny, ggplot2, dplyr, Data Visualization*
+
+- [Weight Loss Calculator](https://dejesusalcala.shinyapps.io/weight-loss-calculator/){target="_blank"}
+
+    - **Skills:** *R, Shiny*
