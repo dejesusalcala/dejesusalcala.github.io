@@ -13,6 +13,7 @@ about:
       - icon: mortarboard-fill
         text: cal profile
         href: https://cal.berkeley.edu/dejesusalcala
+        target: _blank
       - icon: linkedin
         text: linkedin
         href: https://www.linkedin.com/in/dejesusalcala/
