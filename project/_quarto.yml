@@ -12,6 +12,9 @@ website:
     right:
       - text: "Home"
         file: index.qmd
+      - text: Book
+        href: https://mathnalysis.com/
+        target: _blank
       - text: "Mathematics"
         file: nonlinear-and-discrete-optimization.qmd
       - text: "Programming"
