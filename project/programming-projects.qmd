@@ -23,4 +23,6 @@ format: html
 
 - [Weight Loss Calculator](https://dejesusalcala.shinyapps.io/weight-loss-calculator/){target="_blank"}
 
+    - **Summary:** This weight loss calculator provides the user with a realistic timeframe and a weight goal that is based on body fat percentages. The calories provided in this calculator are computed using the Mifflin-St Jeor equation.
+    
     - **Skills:** *R, Shiny*
