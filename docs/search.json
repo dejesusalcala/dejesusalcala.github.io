@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Angel Alcala Ruiz",
-    "section": "",
-    "text": "About me\nHello! My name is Angel and I’d like to welcome you to my website. I want to use this space as a way to continue my journey of learning, and to be able to share some of my knowledge.\nI graduated from the University of California, Berkeley with a bachelor’s in applied mathematics. I enjoy using mathematics to help find solutions to real-world problems. I’m specifically interested in data analysis to create visualizations that can help us better understand an issue which can lead us to have thoughtful discussions about possible solutions.\nI have two amazing little sisters (technically my nieces!) that I absolutely love spending so much time with. On my free time I enjoy weight lifting, mountain biking, calligraphy, and painting.\nIf you have any questions about my work or if you would like to contact me about anything else, then please feel free to contact me.\nBest\n\n\nEducation\nUniversity of California, Berkeley - Bachelor of Arts, Applied Mathematics\nDiablo Valley College - Associate of Arts, Economics\n\n\nCertificates\nUC Berkeley Extension - Data Analytics Boot Camp"
-  },
-  {
     "objectID": "abstract-algebra.html",
     "href": "abstract-algebra.html",
     "title": "Abstract Algebra",
@@ -63,13 +56,6 @@
     "text": "The following exercises are from Project Euler\n\nProblem 1: Multiples of 3 or 5\nProblem 2: Even Fibonacci Numbers\nProblem 3: Largest Prime Factors\nProblem 4: Largest Palindrome Product\nProblem 5: Smallest Multiple\nProblem 6: Sum Square Difference\nProblem 7: 10001st Prime\nProblem 8: Largest Product in a Series\nProblem 9: Pythagorean Triplet\nProblem 10: Summation of Primes\nProblem 11: Largest Product in a Grid\nProblem 12: Highly Divisible Triangle Number\nProblem 13: Large Sum"
   },
   {
-    "objectID": "programming-projects.html",
-    "href": "programming-projects.html",
-    "title": "Programming Projects",
-    "section": "",
-    "text": "Investment Simulator\n\nSummary: Built an interactive investment application through R’s Shiny package. The application uses simulations to visualize how an investment account will grow given an initial amount and yearly contributions.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nInaugural Speech Analysis\n\nSummary: Built an interactive application through R’s Shiny package to perform a text analysis. The application allows the user to explore the most frequently used words and bigrams of the U.S. president’s inaugural speeches with the ability to remove stopwords.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nSavings Rate Calculator\n\nSummary: A savings calculator application to compute the number of years of saving a percentage of one’s income it would take to reach a target amount given an annual income and an annual rate.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nWeight Loss Calculator\n\nSummary: This weight loss calculator provides the user with a realistic timeframe and a weight goal that is based on body fat percentages. The calories provided in this calculator are computed using the Mifflin-St Jeor equation.\nSkills: R, Shiny"
-  },
-  {
     "objectID": "nonlinear-and-discrete-optimization.html",
     "href": "nonlinear-and-discrete-optimization.html",
     "title": "Nonlinear & Discrete Optimization",
@@ -96,6 +82,20 @@
     "title": "Nonlinear & Discrete Optimization",
     "section": "Homework",
     "text": "Homework\n\nHomework 1 - My Solutions\nHomework 2 - My Solutions\nHomework 3 - My Solutions\nHomework 4 - My Solutions"
+  },
+  {
+    "objectID": "programming-projects.html",
+    "href": "programming-projects.html",
+    "title": "Programming Projects",
+    "section": "",
+    "text": "Investment Simulator\n\nSummary: Built an interactive investment application through R’s Shiny package. The application uses simulations to visualize how an investment account will grow given an initial amount and yearly contributions.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nInaugural Speech Analysis\n\nSummary: Built an interactive application through R’s Shiny package to perform a text analysis. The application allows the user to explore the most frequently used words and bigrams of the U.S. president’s inaugural speeches with the ability to remove stopwords.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nSavings Rate Calculator\n\nSummary: A savings calculator application to compute the number of years of saving a percentage of one’s income it would take to reach a target amount given an annual income and an annual rate.\nSkills: R, Shiny, ggplot2, dplyr, Data Visualization\n\nWeight Loss Calculator\n\nSummary: This weight loss calculator provides the user with a realistic timeframe and a weight goal that is based on body fat percentages. The calories provided in this calculator are computed using the Mifflin-St Jeor equation.\nSkills: R, Shiny"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Angel Alcala Ruiz",
+    "section": "",
+    "text": "About me\nHello! My name is Angel and I’d like to welcome you to my website. I want to use this space as a way to continue my journey of learning, and to be able to share some of my knowledge.\nI graduated from the University of California, Berkeley with a bachelor’s in applied mathematics. I enjoy using mathematics to help find solutions to real-world problems. I’m specifically interested in data analysis to create visualizations that can help us better understand an issue which can lead us to have thoughtful discussions about possible solutions.\nWhen I’m not working I try to spend as much time as I can with my family and friends. Also, on my free time I enjoy running, weight lifting, mountain biking, and calligraphy.\nIf you have any questions about my work or if you would like to contact me about anything else, then please feel free to reach out to me.\nBest\n\n\nEducation\nUniversity of California, Berkeley - Bachelor of Arts, Applied Mathematics\nDiablo Valley College - Associate of Arts, Economics\n\n\nCertificates\nUC Berkeley Extension - Data Analytics Boot Camp"
   },
   {
     "objectID": "artwork.html",
